@@ -21,3 +21,9 @@
     - использовать СКД  
 
 ######  Реализация
+
+- Пилим внешний Отчет
+
+- СКД:
+    - Набор данных [Запрос](https://github.com/alex-dev-2020/Interview_Tasks/commit/8c6b9f7eee388997bb39beba2c5c39765b4ad3ca)
+- [Модуль Объекта](https://github.com/alex-dev-2020/Interview_Tasks/commit/0b9b76937ca81b5e90400b094c1e5c68318c1a1d)
