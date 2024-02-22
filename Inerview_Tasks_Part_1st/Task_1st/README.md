@@ -1,8 +1,5 @@
 
 
-### HEADER
-
-####
 
 ##### Задание 1
 
@@ -31,4 +28,9 @@
     - Пример 2:
       - Исходная строка: «)))(»
         - Результат: «((()))()»
+  
+###### Реализация 
+
+- [Модуль Формы](https://github.com/alex-dev-2020/Interview_Tasks/blob/main/Inerview_Tasks_Part_1st/Task_1st/Form_Module.bsl)
+
 	
